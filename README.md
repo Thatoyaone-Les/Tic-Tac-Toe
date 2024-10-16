@@ -9,4 +9,4 @@ Tic-Tac-Toe game written in python played on the commandline
 ## Below is an image of when the game is won
 ![when game is won](/imgs/winner%20game.png)
 ## Below is image of when player has incorrect input
-![incorrect input in game](/incorrect%20input-1.png)
+![incorrect input in game](/imgs/incorrect%20input.png)
